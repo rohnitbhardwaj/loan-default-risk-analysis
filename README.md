@@ -2,7 +2,7 @@
 
 **Python · Power BI · Statistics**
 
-📊 **[View Dashboard Screenshots]([images/](https://github.com/rohnitbhardwaj/loan-default-risk-analysis/tree/main/images))**
+📊 **[View Dashboard Screenshots](images/)**
 
 ## Business Problem
 
