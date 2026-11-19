@@ -20,8 +20,8 @@ Kaggle](https://www.kaggle.com/datasets/tanishaj225/loancsv)
 
 ## Methodology
 
-1.  **Dataset:** defined default as "Charged Off" and excluded loans still in progress.
-2.  **Transformation (Python):** removed empty and data-leakage columns, converted text fields to numbers, fixed dates, and grouped values into bands (income, DTI, loan amount, interest rate).
+1.  **Data preparation:** Defined default as "Charged Off" and excluded loans still in progress.
+2.  **Transformation (Python):** Removed empty and data-leakage columns, converted text fields to numbers, fixed dates, and grouped values into bands (income, DTI, loan amount, interest rate).
 3.  **Analysis (Python):** Analysed default rates by segment using confidence intervals, Chi-square tests with Cramér's V, Mann-Whitney U tests, relative risk and Spearman correlation.
 4.  **Visualization (Power BI):** a 2-page dashboard with DAX measures and filters: who defaults and where the money is lost.
 
