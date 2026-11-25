@@ -12,7 +12,7 @@ Which loans are most likely to default, and which segments account for the great
 
 Lending Club loan data (2007 to 2011). After excluding loans still in progress, the analysis covers 38,577 completed loans, including 5,627 defaults (14.6%).
 
-[Dataset source -- Kaggle](https://www.kaggle.com/datasets/tanishaj225/loancsv)
+[Dataset source -- Kaggle](https://www.kaggle.com/datasets/imsparsh/lending-club-loan-dataset-2007-2011/data?select=loan.csv)
 
 ## Methodology
 
